@@ -3,7 +3,7 @@
 }
 .td3{
     top:16%;
-    right: 56.7%;
+    right: 57.3%;
     position:absolute;
 }
 .td4{
@@ -28,11 +28,15 @@ h1{
     background-color: rgb(255, 148, 209);
     padding: 0px;
     margin: 0px;
-    overflow:hidden;
+    
+    display: inline-flex;
     text-align: center;
 }
 
-
+.bar{
+    background-color: rgb(255, 148, 209);
+    text-align:center;
+}
 .bar a{
 font-family: monospace;
 font-size:larger;
@@ -51,5 +55,7 @@ text-align: center;
     text-align: center;
 
 }
-
+body{
+    margin:0;
+}
 
