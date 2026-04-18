@@ -1,0 +1,56 @@
+.td1{
+    top:0;
+}
+.td3{
+    top:16%;
+    right: 0%;
+    position:absolute;
+}
+.td4{
+    top:44%;
+    right: 0%;
+    position:absolute;
+}
+
+h1{
+    text-align: center;
+    font-family:monospace;
+    color:greenyellow;
+
+}
+.bar ul{
+    list-style-type: none;
+    background-color: rgb(255, 148, 209);
+    padding: 0px;
+    margin: 0px;
+    
+    display: inline-flex;
+    text-align: center;
+}
+
+.bar{
+    background-color: rgb(255, 148, 209);
+    text-align:center;
+}
+.bar a{
+font-family: monospace;
+font-size:larger;
+color:rgb(143, 52, 87);
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+} 
+.bar a:hover{
+    background-color: rgb(238, 124, 189);
+
+}
+.bar li{
+    float:left;
+    text-align: center;
+
+}
+body{
+    margin:0;
+}
+

@@ -3,21 +3,35 @@
 }
 .td3{
     top:16%;
-    right: 58%;
+    right: 62%;
     position:absolute;
 }
 .td4{
     top:16%;
-    right: 39%;
+    right: 47%;
     position:absolute;
 }
 .td5{
     top:16%;
-    right: 0;
+    right:0%;
     position:absolute;
 }
 .td6{
-    left:0%;
+    right:0%;
+    position:absolute;
+}
+.td7{
+    top:16%;
+    right: 31.9%;
+    position:absolute;
+
+}
+.td8{
+    top:16%;
+    right: 16%;
+    position:absolute;
+
+
 }
 h1{
     text-align: center;
