@@ -2,10 +2,16 @@
     padding:0;
 
 }
+.plane{
+    position:absolute;
+    right:60%;
+    top:25%;
+}
 
 .Air{
-    position:fixed;
-    right:0;
+    position:absolute;
+    right:27%;
+    top:43%;
 }
 h1{
     text-align: center;

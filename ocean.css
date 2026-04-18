@@ -1,28 +1,34 @@
 .td1{
     top:0;
 }
-.td3{
+.td2{
+    left:17%;
     top:16%;
-    right: 62%;
+    position: absolute;
+}
+.td3{
+    top:43%;
+    right: 59%;
     position:absolute;
 }
 .td4{
-    top:16%;
-    right: 47%;
-    position:absolute;
-}
-.td5{
-    top:16%;
-    right:0%;
+    top:46%;
+    right: 35%;
     position:absolute;
 }
 .td6{
-    right:0%;
+    top:16%;
+    right:3%;
+    position:absolute;
+}
+.td5{
+    right:4%;
+    top:46%;
     position:absolute;
 }
 .td7{
     top:16%;
-    right: 31.9%;
+    right: 34%;
     position:absolute;
 
 }
